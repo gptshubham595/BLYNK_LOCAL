@@ -1,0 +1,88 @@
+21:46:41.415 INFO - Using data dir 'serverdata'
+21:46:41.446 INFO - Region : local. Host : testblynk.com.
+21:46:43.482 INFO - Initializing gmail smtp mail transport. Username : gptshubham3@gmail.com. SMTP host : smtp.gmail.com:587
+21:46:43.644 INFO - Reports : 0
+21:46:43.644 INFO - Didn't find custom user certificates.
+21:46:43.645 INFO - Didn't find Let's Encrypt certificates.
+21:46:43.645 INFO - Automatic certificate generation is turned ON.
+21:46:43.645 WARN - ATTENTION. Server certificate paths (cert : 'C:\Users\SHUBHAM\Desktop\BLYNK', key : 'C:\Users\SHUBHAM\Desktop\BLYNK') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+21:46:45.734 INFO - HTTP API and WebSockets server listening at 8080 port.
+21:46:45.735 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+21:46:45.735 INFO - Mqtt hardware server listening at 8440 port.
+21:46:45.742 INFO - Starting up certificate retrieval process for host testblynk.com and email gptshubham3@gmail.com.
+21:46:48.995 INFO - Registered a new user, URL: https://acme-v02.api.letsencrypt.org/acme/acct/101010911
+21:46:50.443 INFO - Starting authorization for domain testblynk.com
+21:48:16.311 INFO - Using data dir 'serverdata'
+21:48:16.563 INFO - Region : local. Host : 127.0.0.1.
+21:48:18.646 INFO - Initializing gmail smtp mail transport. Username : gptshubham3@gmail.com. SMTP host : smtp.gmail.com:587
+21:48:18.664 INFO - Reports : 0
+21:48:18.664 INFO - Didn't find custom user certificates.
+21:48:18.665 INFO - Didn't find Let's Encrypt certificates.
+21:48:18.665 INFO - Automatic certificate generation is turned ON.
+21:48:18.665 WARN - ATTENTION. Server certificate paths (cert : 'C:\Users\SHUBHAM\Desktop\BLYNK', key : 'C:\Users\SHUBHAM\Desktop\BLYNK') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+21:48:20.796 INFO - HTTP API and WebSockets server listening at 8080 port.
+21:48:20.797 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+21:48:20.798 INFO - Mqtt hardware server listening at 8440 port.
+21:48:20.804 INFO - Starting up certificate retrieval process for host 127.0.0.1 and email gptshubham3@gmail.com.
+21:48:23.616 INFO - Registered a new user, URL: https://acme-v02.api.letsencrypt.org/acme/acct/101010911
+21:48:48.418 INFO - Using data dir 'serverdata'
+21:48:48.691 INFO - Region : local. Host : 169.254.77.132.
+21:48:50.552 INFO - Initializing gmail smtp mail transport. Username : gptshubham3@gmail.com. SMTP host : smtp.gmail.com:587
+21:48:50.570 INFO - Reports : 0
+21:48:50.571 INFO - Didn't find custom user certificates.
+21:48:50.571 INFO - Didn't find Let's Encrypt certificates.
+21:48:50.571 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+21:48:50.571 WARN - ATTENTION. Server certificate paths (cert : 'C:\Users\SHUBHAM\Desktop\BLYNK', key : 'C:\Users\SHUBHAM\Desktop\BLYNK') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+21:48:52.825 INFO - HTTP API and WebSockets server listening at 8080 port.
+21:48:52.826 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+21:48:52.827 INFO - Mqtt hardware server listening at 8440 port.
+21:51:07.125 WARN - User 'gptshubham3@gmail.com' not registered. /192.168.43.237:46004
+21:51:23.112 WARN - User 'gptshubham3@gmail.com' not registered. /192.168.43.237:46012
+21:51:25.810 WARN - User 'gptshubham3@gmail.com' not registered. /192.168.43.237:46016
+21:51:59.608 INFO - Trying register user : gptshubham2@gmail.com, app : Blynk
+21:51:59.613 INFO - Registered gptshubham2@gmail.com.
+21:51:59.621 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+21:52:33.531 INFO - Creating new dashboard.
+21:54:24.198 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+21:54:37.793 INFO - Creating new dashboard.
+21:57:53.512 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+22:03:02.287 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+22:11:07.495 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+22:11:10.261 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+22:16:27.229 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+22:19:43.357 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+22:22:55.141 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+22:27:08.804 INFO - Using data dir 'serverdata'
+22:27:09.096 INFO - Region : local. Host : 169.254.77.132.
+22:27:10.930 INFO - Initializing gmail smtp mail transport. Username : gptshubham3@gmail.com. SMTP host : smtp.gmail.com:587
+22:27:10.948 INFO - Reports : 0
+22:27:10.948 INFO - Didn't find custom user certificates.
+22:27:10.949 INFO - Didn't find Let's Encrypt certificates.
+22:27:10.949 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+22:27:10.949 WARN - ATTENTION. Server certificate paths (cert : 'C:\Users\SHUBHAM\Desktop\BLYNK', key : 'C:\Users\SHUBHAM\Desktop\BLYNK') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+22:27:12.942 INFO - HTTP API and WebSockets server listening at 8080 port.
+22:27:12.944 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+22:27:12.944 INFO - Mqtt hardware server listening at 8440 port.
+22:27:16.365 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+22:30:28.268 INFO - gptshubham2@gmail.com hardware joined.
+22:38:32.207 INFO - gptshubham2@gmail.com hardware joined.
+22:39:04.292 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+22:40:26.341 INFO - gptshubham2@gmail.com hardware joined.
+22:45:51.918 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+22:45:59.780 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+23:07:08.366 INFO - gptshubham2@gmail.com hardware joined.
+23:09:57.284 INFO - gptshubham2@gmail.com hardware joined.
+23:11:31.351 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+23:11:41.613 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+23:11:41.634 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+23:11:41.636 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+23:13:21.987 INFO - gptshubham2@gmail.com hardware joined.
+23:15:05.055 INFO - gptshubham2@gmail.com hardware joined.
+23:19:56.788 INFO - gptshubham2@gmail.com hardware joined.
+23:22:16.335 INFO - gptshubham2@gmail.com hardware joined.
+23:27:22.371 INFO - gptshubham2@gmail.com hardware joined.
+23:44:16.071 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+23:44:16.139 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+23:46:20.169 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+23:55:39.744 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+23:55:39.814 WARN - Didn't find cloned project on disk. Path serverdata\clone\Y6zUpxSVgAnK7x9ZD350kVRPs_3XNU6n. Reason serverdata\clone\Y6zUpxSVgAnK7x9ZD350kVRPs_3XNU6n
