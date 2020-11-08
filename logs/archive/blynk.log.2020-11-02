@@ -1,0 +1,40 @@
+00:05:19.170 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+00:05:21.876 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+00:05:21.952 WARN - Didn't find cloned project on disk. Path serverdata\clone\Y6zUpxSVgAnK7x9ZD350kVRPs_3XNU6n. Reason serverdata\clone\Y6zUpxSVgAnK7x9ZD350kVRPs_3XNU6n
+00:15:23.404 INFO - gptshubham2@gmail.com hardware joined.
+00:34:42.211 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+00:34:48.863 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+00:34:48.864 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+00:34:48.927 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+00:34:48.971 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+00:42:08.340 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+00:42:08.440 WARN - Didn't find cloned project on disk. Path serverdata\clone\Y6zUpxSVgAnK7x9ZD350kVRPs_3XNU6n. Reason serverdata\clone\Y6zUpxSVgAnK7x9ZD350kVRPs_3XNU6n
+00:45:43.405 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+00:45:48.793 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+00:47:48.566 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+00:48:33.495 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+00:48:36.471 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+00:48:36.553 WARN - Didn't find cloned project on disk. Path serverdata\clone\Y6zUpxSVgAnK7x9ZD350kVRPs_3XNU6n. Reason serverdata\clone\Y6zUpxSVgAnK7x9ZD350kVRPs_3XNU6n
+00:55:22.376 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+00:55:28.132 INFO - gptshubham2@gmail.com hardware joined.
+01:04:37.801 INFO - gptshubham2@gmail.com hardware joined.
+01:13:46.997 INFO - gptshubham2@gmail.com hardware joined.
+01:17:41.587 INFO - gptshubham2@gmail.com hardware joined.
+01:19:30.240 INFO - gptshubham2@gmail.com hardware joined.
+01:46:16.797 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+01:46:16.798 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+01:46:16.816 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+01:46:16.817 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+01:46:17.478 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
+03:02:54.056 INFO - Using data dir 'serverdata'
+03:02:54.353 INFO - Region : local. Host : 169.254.77.132.
+03:02:56.147 INFO - Initializing gmail smtp mail transport. Username : gptshubham3@gmail.com. SMTP host : smtp.gmail.com:587
+03:02:56.179 INFO - Reports : 0
+03:02:56.179 INFO - Didn't find custom user certificates.
+03:02:56.179 INFO - Didn't find Let's Encrypt certificates.
+03:02:56.179 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+03:02:56.179 WARN - ATTENTION. Server certificate paths (cert : 'C:\Users\SHUBHAM\Desktop\BLYNK', key : 'C:\Users\SHUBHAM\Desktop\BLYNK') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+03:02:57.963 INFO - HTTP API and WebSockets server listening at 8080 port.
+03:02:57.963 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+03:02:57.978 INFO - Mqtt hardware server listening at 8440 port.
+03:03:01.882 INFO - gptshubham2@gmail.com Blynk-app (android-22719) joined.
